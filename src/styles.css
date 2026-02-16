@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+
+/* On définit nos variables dans le nouveau format v4 */
+@theme {
+  --color-loaw-black: #0a0a0a;
+  --color-loaw-gold: #d4af37;
+}
